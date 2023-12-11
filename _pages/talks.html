@@ -7,11 +7,15 @@ author_profile: true
 
 <h2>Upcoming talks</h2>
 
-{% for post in site.upcomingtalks reversed %}
+{% include base_path %}
+
+{% for post in site.talks reversed %}
   {% include archive-single-upcomingtalk.html %}
 {% endfor %}
 
 <h2>Past talks</h2>
+
+{% include base_path %}
 
 {% if site.talkmap_link == true %}
 
