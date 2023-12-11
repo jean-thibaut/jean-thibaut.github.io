@@ -8,6 +8,5 @@ date: 17-21 April 2023
 location: "Marseille, France"
 ---
 
-[More information here](http://exampleurl.com)
+[More information here](https://conferences.cirm-math.fr/2697.html)
 
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
