@@ -1,6 +1,6 @@
 ---
-title: "Evennt 1"
-collection: event
+title: "Event 1"
+collection: events
 type: "Conference"
 permalink: /event/event1
 venue: "IHP"
