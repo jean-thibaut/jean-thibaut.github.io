@@ -4,7 +4,7 @@ collection: upcomingtalks
 type: "Talk"
 permalink: /upcomingtalks/PhD-seminar2
 venue: "CPT - I2M"
-date: 21 March 2023
+date: 21 March 2024
 location: "Marseille, France"
 ---
 
