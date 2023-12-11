@@ -1,5 +1,5 @@
 ---
-title: "Characteristic classe of diffentiable manifolds and where to find some of them."
+title: "Characteristic classes of diffentiable manifolds and where to find some of them."
 collection: upcomingtalks
 type: "Presentation"
 permalink: /upcomingtalks/PhD-seminar2
