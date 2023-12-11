@@ -1,7 +1,7 @@
 ---
 title: "Characteristic classes of diffentiable manifolds and where to find some of them."
 collection: upcomingtalks
-type: "Presentation"
+type: "Talk"
 permalink: /upcomingtalks/PhD-seminar2
 venue: "CPT - I2M"
 date: 21 March 2023

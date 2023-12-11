@@ -1,7 +1,7 @@
 ---
 title: "An introduction to Cartan geometry, or how to mathematically describe a Hamster rolling a ball on Curved space."
 collection: upcomingtalks
-type: "Presentation"
+type: "Talk"
 permalink: /upcomingtalks/PhD-seminar1
 venue: "CPT - I2M"
 date: 14 March 2023
