@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<h2>Research interests</h2>
 
 I am a PhD student at the [Center for Theoretical Physics](https://www.cpt.univ-mrs.fr) (CPT) located in Marseille (France) and am part of the [Geometry, Physics and Symmetries](https://www.cpt.univ-mrs.fr/spip.php?page=rubrique&id_rubrique=16) team.
 
@@ -18,6 +20,8 @@ One can generalize a connection on a Lie algebroid to obtain a pseudo-connection
 
 I am also interested in other areas of mathematics and physics such as category theory, differential geometry, non-commutative geometry and quantum field theory.
 
+
+<!-- <h2>Hobbies</h2> -->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
