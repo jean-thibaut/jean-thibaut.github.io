@@ -3,9 +3,9 @@ title: "Higher Structures in Geometry and Mathematical Physics, Introductory Sch
 collection: events
 type: "Conference"
 permalink: /events/higher-structures-cirm
-venue: "UC-Berkeley Institute for Testing Science"
+venue: "CIRM"
 date: 17-21 April 2023
-location: "CIRM, Marseille, France"
+location: "Marseille, France"
 ---
 
 [More information here](http://exampleurl.com)
