@@ -1,11 +1,11 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Higher Structures in Geometry and Mathematical Physics, Introductory School at CIRM in Luminy"
 collection: events
-type: "Tutorial"
-permalink: /events/event1
+type: "Conference"
+permalink: /events/higher-structures-cirm
 venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+date: 17-21 April 2023
+location: "CIRM, Marseille, France"
 ---
 
 [More information here](http://exampleurl.com)
