@@ -250,6 +250,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _upcmingtalks
+  - scope:
+      path: ""
+      type: upcomingtalks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
   # __events
   - scope:
       path: ""
