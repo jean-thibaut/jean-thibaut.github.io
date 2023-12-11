@@ -1,6 +1,6 @@
 ---
 title: "Tutorial 1 on Relevant Topic in Your Field"
-collection: talks
+collection: events
 type: "Tutorial"
 permalink: /events/event1
 venue: "UC-Berkeley Institute for Testing Science"
