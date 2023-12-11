@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  upcomingtalks:
+    output: true
+    permalink: /:collection/:path/
   events:
     output: true
     permalink: /:collection/:path/

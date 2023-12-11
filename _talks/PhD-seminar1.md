@@ -1,5 +1,5 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "An introduction to Cartan geometry, or how to mathematically describe a Hamster rolling a ball on Curved space."
 collection: talks
 type: "Tutorial"
 permalink: /talks/2013-03-01-tutorial-1
