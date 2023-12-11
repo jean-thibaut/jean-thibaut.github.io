@@ -8,6 +8,6 @@ date: 22-26 May 2023
 location: "Paris, France"
 ---
 
-[More information here](https://ulysses8791.github.io/gap2023.html
+[More information here](https://ulysses8791.github.io/gap2023.html)
 
 
