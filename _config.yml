@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "jthibaut@cpt.univ-mrs.fr"
-  researchgate     :  example: "https://www.researchgate.net/profile/Jean-Thibaut-2"
+  researchgate     :  #example: "https://www.researchgate.net/profile/Jean-Thibaut-2"
   uri              :
   bitbucket        :
   codepen          :
