@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "jthibaut@cpt.univ-mrs.fr"
-  researchgate     :  #example: "https://www.researchgate.net/profile/Jean-Thibaut-2"
+  researchgate     : "https://www.researchgate.net/profile/Jean-Thibaut-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jean-thibaut-00155b196/"
   orcid            : "https://orcid.org/0009-0004-7396-1395"
   pinterest        :
   soundcloud       :
