@@ -1,5 +1,5 @@
 ---
-title: "An introduction to Cartan geometry, or how to mathematically describe a Hamster rolling a ball on Curved space."
+title: "An introduction to Cartan geometry, or how to mathematically describe a hamster rolling a ball on curved space."
 collection: upcomingtalks
 type: "Talk"
 permalink: /upcomingtalks/PhD-seminar1
