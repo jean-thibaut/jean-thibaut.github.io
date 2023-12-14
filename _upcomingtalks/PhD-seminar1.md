@@ -1,6 +1,6 @@
 ---
 title: "An introduction to Cartan geometry, or how to mathematically describe a hamster rolling a ball on curved space."
-collection: talks
+collection: upcomingtalks
 type: "Talk"
 permalink: /upcomingtalks/PhD-seminar1
 venue: "CPT - I2M"
