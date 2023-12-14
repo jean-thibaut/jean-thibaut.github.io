@@ -1,6 +1,6 @@
 ---
 title: "Characteristic classes of diffentiable manifolds and where to find some of them."
-collection: upcomingtalks
+collection: talks
 type: "Talk"
 permalink: /upcomingtalks/PhD-seminar2
 venue: "CPT - I2M"
