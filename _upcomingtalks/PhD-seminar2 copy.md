@@ -8,4 +8,4 @@ date: 21 March 2024
 location: "Marseille, France"
 ---
 
-[More information here](https://www.i2m.univ-amu.fr/events/tba-85/)
+
