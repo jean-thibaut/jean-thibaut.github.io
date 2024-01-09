@@ -15,7 +15,7 @@ I am a PhD student at the [Center for Theoretical Physics](https://www.cpt.univ-
 My current focus is on Gauge theories with underlying Cartan geometry and their applications to describe gravity. The Einstein-Cartan formulation of General Relativity or Macdowell-Mansouri gravity are examples of theories using Cartan geometry. 
 
 My work involves generalisations of Cartan connections using a formalism based on Lie algebroids.
-One can generalize a connection on a Lie algebroid to obtain a pseudo-connection (or generalised connection) by relaxing the condition for it to define a splitting of the short exact sequence associated to the Lie algebroid.  A pseudo-connection features an additional term compared to an ordinary connection which in turn results in different curvature, characteristic classes and action.
+One can generalize a connection on a Lie algebroid to obtain a pseudo-connection (or generalised connection) by relaxing the condition for it to define a splitting of the short exact sequence associated to the Atiyah Lie algebroid.  A pseudo-connection features an additional term compared to an ordinary connection which in turn results in different curvature, characteristic classes and action.
 <!-- The use of Lie algebroids allows to exploit all these additional terms in the action and not only a select few. -->
 
 I am also interested in other areas of mathematics and physics such as category theory, differential geometry, non-commutative geometry and quantum field theory.
