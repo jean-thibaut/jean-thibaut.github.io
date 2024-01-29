@@ -4,7 +4,7 @@ collection: talks
 type: "PhD student seminar"
 permalink: /talks/PhD
 venue: "CPT - I2M"
-date: 2024-03-14
+date: 2024-01-14
 location: "Marseille, France"
 ---
 
