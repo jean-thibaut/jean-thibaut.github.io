@@ -1,8 +1,8 @@
 ---
 title: "An introduction to Cartan geometry, or how to mathematically describe a hamster rolling a ball on curved space."
-collection: talks
+collection: upcomingtalks
 type: "PhD student seminar"
-permalink: /talks/PhD-seminar1
+permalink: /upcomingtalks/PhD_seminar1
 venue: "CPT - I2M"
 date: 14 March 2024
 location: "Marseille, France"
