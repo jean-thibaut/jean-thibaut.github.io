@@ -181,7 +181,7 @@ collections:
   publications:
    output: true
    permalink: /:collection/:path/
-  preprint:
+  preprints:
    output: true
    permalink: /:collection/:path/
   # portfolio:
@@ -236,10 +236,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _preprint
+  # _preprints
   - scope:
       path: ""
-      type: preprint
+      type: publications
     values:
       layout: single
       author_profile: true
