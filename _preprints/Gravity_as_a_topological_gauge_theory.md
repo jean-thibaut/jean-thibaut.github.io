@@ -9,7 +9,9 @@ date: 2024-03-13
 paperurl: 'https://arxiv.org/abs/2403.05284'
 # citation: 'Serge Lazzarini, Jean Thibaut. (2024). &quot;Gravity as a topological gauge theory.&quot; <i>Preprint </i>. 1(1).'
 ---
-We describe a topological theory of gravity by building an action from the Characteristic numbers of a manifold with Cartan geometry. In case one only considers the Euler number we retrieve Mac-Dowell Mansouri gravity. Considering a linear combination of the Euler and Pontrjagin numbers as an action allows to retrieve the Holst term as well as a cosmological constant and Nieh-Yan, Pontrjagin, and Euler terms relative to spacetime curvature R and torsion T with only 3 free parameters corresponding to Newton's constant, the cosmological constant and the Barbero-Immirzi parameter.
+We describe a topological theory of gravity by building an action from the Characteristic numbers of a manifold with Cartan geometry. 
+
+In case one only considers the Euler number we retrieve Mac-Dowell Mansouri gravity. Considering a linear combination of the Euler and Pontrjagin numbers as an action allows to retrieve the Holst term as well as a cosmological constant and Nieh-Yan, Pontrjagin, and Euler terms relative to spacetime curvature R and torsion T with only 3 free parameters corresponding to Newton's constant, the cosmological constant and the Barbero-Immirzi parameter.
 
  [Download paper here](https://arxiv.org/pdf/2403.05284.pdf)
 
