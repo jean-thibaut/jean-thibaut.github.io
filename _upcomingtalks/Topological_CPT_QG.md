@@ -1,6 +1,6 @@
 ---
 title: "Gravity as a topological gauge theory"
-collection: talks
+collection: upcomingtalks
 type: "Conference"
 permalink: /talks/PhD-seminar1
 venue: "ICMP 2024"
