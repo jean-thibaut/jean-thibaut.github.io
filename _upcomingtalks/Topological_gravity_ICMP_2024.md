@@ -4,7 +4,7 @@ collection: upcomingtalks
 type: "Conference"
 permalink: /talks/PhD-seminar1
 venue: "ICMP 2024"
-date: 2024-03-
+date: 2024-03-04
 location: "Strasbourg, France"
 ---
 
