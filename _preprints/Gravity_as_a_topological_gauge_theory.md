@@ -7,7 +7,7 @@ The other example being conformal Cartan geometry.'
 date: 2024-03-13
 # venue: 'Preprint'
 paperurl: 'https://arxiv.org/abs/2403.05284'
-# citation: 'Serge Lazzarini, Jean Thibaut. (2024). &quot;Gravity as a topological gauge theory.&quot; <i>Preprint </i>. 1(1).'
+citation: 'Serge Lazzarini, Jean Thibaut. (2024). &quot;Gravity as a topological gauge theory.&quot; <i>Preprint </i>. 1(1).'
 ---
 We describe a topological theory of gravity by building an action from the Characteristic numbers of a manifold with Cartan geometry. 
 
