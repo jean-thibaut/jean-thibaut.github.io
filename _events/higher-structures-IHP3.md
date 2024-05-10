@@ -3,7 +3,7 @@ title: "Higher Structures in Geometry and Mathematical Physics, Dg-manifolds in 
 collection: events
 type: "Conference"
 permalink: /events/higher-structures-IHP3
-venue: "IHP"
+venue: "IHP, Paris, France"
 date: 3-7 July 2023
 location: "Paris, France"
 ---

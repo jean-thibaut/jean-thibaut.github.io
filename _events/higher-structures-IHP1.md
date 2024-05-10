@@ -3,7 +3,7 @@ title: "Higher Structures in Geometry and Mathematical Physics, GAP 2023 — Hom
 collection: events
 type: "Conference"
 permalink: /events/higher-structures-IHP1
-venue: "IHP"
+venue: "IHP, Paris, France"
 date: 22-26 May 2023
 location: "Paris, France"
 ---

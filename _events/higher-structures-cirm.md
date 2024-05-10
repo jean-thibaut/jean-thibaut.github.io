@@ -3,7 +3,7 @@ title: "Higher Structures in Geometry and Mathematical Physics, Introductory Sch
 collection: events
 type: "Conference"
 permalink: /events/higher-structures-cirm
-venue: "CIRM"
+venue: "CIRM, Marseille, France"
 date: 17-21 April 2023
 location: "Marseille, France"
 ---

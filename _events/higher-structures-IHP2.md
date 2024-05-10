@@ -3,7 +3,7 @@ title: "Higher Structures in Geometry and Mathematical Physics, Higher structure
 collection: events
 type: "Conference"
 permalink: /events/higher-structures-IHP2
-venue: "IHP"
+venue: "IHP, Paris, France"
 date: 12-16 June 2023
 location: "Paris, France"
 ---
