@@ -2,7 +2,7 @@
 title: "Gravity as a topological gauge theory"
 collection: preprints
 permalink: /preprints/Gravity_as_a_topological_gauge_theory
-excerpt: 'We describe a topological theory of gravity with action consisting of a linear combination of the Euler and Pontrjagin numbers of the Manifold. Two examples are studied, the first being a Lorentzian Cartan geometry (dS and AdS spacetimes for example).
+excerpt: 'We describe a topological theory of gravity with action consisting of a linear combination of the Euler and Pontrjagin numbers of the Manifold. Two examples are studied, the first being a Lorentzian Cartan geometry (dS and AdS spacetimes are particular cases).
 The other example being conformal Cartan geometry.'
 date: 2024-03-13
 venue: 'Preprint'
