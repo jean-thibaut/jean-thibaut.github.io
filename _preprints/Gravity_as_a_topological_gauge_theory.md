@@ -13,7 +13,7 @@ We describe a topological theory of gravity by building an action from the Chara
 
 Two geometries are studied : Lorentzian (includes dS and AdS) and Conformal.
 
-For a Lorentzian geometry if one one only considers the Euler number we retrieve Mac-Dowell Mansouri gravity. Considering a linear combination of the Euler and Pontrjagin numbers as an action allows to retrieve the Holst term as well as a cosmological constant and Nieh-Yan, Pontrjagin, and Euler terms relative to spacetime curvature R and torsion T with only 3 free parameters corresponding to Newton's constant, the cosmological constant and the Barbero-Immirzi parameter.
+For a Lorentzian geometry if one one only considers the Euler number we retrieve Mac-Dowell Mansouri gravity. Considering a linear combination of the Euler and Pontrjagin numbers as an action allows to retrieve the Holst term as well as a cosmological constant and Nieh-Yan, Pontrjagin, and Euler terms relative to spacetime curvature R and torsion T with only 4 free parameters corresponding to Newton's constant, the cosmological constant and the Barbero-Immirzi parameter as well as the coupling constant of the Nieh-Yan term.
 
 The case of a Conformal geometry encapsulates the Lorentzian one since by specifying conditions on the Cartan connection we can retrieve the action obtained from Lorentzian geometry.
 
