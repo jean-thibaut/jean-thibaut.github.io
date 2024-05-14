@@ -1,10 +1,10 @@
 ---
-title: "Workshop: "Curved spacetimes, field theory and beyond""
+title: "Workshop: Curved spacetimes, field theory and beyond"
 collection: events
 type: "Conference"
-permalink: /events/curved_spacetime_field
+permalink: /events/curved_spacetime_IHP
 venue: "IHP, Paris, France"
-date: April 2024
+date: 8-12 April 2024
 location: "Paris, France"
 ---
 
