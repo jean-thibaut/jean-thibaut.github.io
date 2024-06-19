@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<h2>Research interests</h2>
+I am a PhD student at the [Center for Theoretical Physics](https://www.cpt.univ-mrs.fr) (CPT) located in Marseille (France) and am part of the [Geometry, Physics and Symmetries](https://www.cpt.univ-mrs.fr/spip.php?page=rubrique&id_rubrique=16) team. 
 
-I am a PhD student at the [Center for Theoretical Physics](https://www.cpt.univ-mrs.fr) (CPT) located in Marseille (France) and am part of the [Geometry, Physics and Symmetries](https://www.cpt.univ-mrs.fr/spip.php?page=rubrique&id_rubrique=16) team.
+<h2>Research interests</h2>
 
 My current focus lies on Gauge theories with underlying Cartan geometry and their applications to describe gravity. Examples of theories based on Cartan geometry are Einstein-Cartan gravity and Macdowell-Mansouri gravity.
 
