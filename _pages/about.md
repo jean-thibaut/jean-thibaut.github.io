@@ -12,7 +12,7 @@ redirect_from:
 
 I am a PhD student at the [Center for Theoretical Physics](https://www.cpt.univ-mrs.fr) (CPT) located in Marseille (France) and am part of the [Geometry, Physics and Symmetries](https://www.cpt.univ-mrs.fr/spip.php?page=rubrique&id_rubrique=16) team.
 
-My current focus is on Gauge theories with underlying Cartan geometry and their applications to describe gravity. Examples of theories based on Cartan geometry are Einstein-Cartan gravity and Macdowell-Mansouri gravity.
+My current focus lies on Gauge theories with underlying Cartan geometry and their applications to describe gravity. Examples of theories based on Cartan geometry are Einstein-Cartan gravity and Macdowell-Mansouri gravity.
 
 My work involves generalisations of Cartan connections using a formalism based on Lie algebroids.
 One can generalize a connection on a Lie algebroid to obtain a generalised connection by relaxing the condition for it to define a splitting of the short exact sequence associated to the Atiyah Lie algebroid. Such generalized connections feature an additional term compared to an ordinary connection which in turn results in different curvature, characteristic classes and action.
