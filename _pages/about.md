@@ -4,8 +4,8 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /Research/
-  - /Research.html
+  - /research/
+  - /research.html
 ---
 
 I am a PhD student at the [Center for Theoretical Physics](https://www.cpt.univ-mrs.fr) (CPT) located in Marseille (France) and am part of the [Geometry, Physics and Symmetries](https://www.cpt.univ-mrs.fr/spip.php?page=rubrique&id_rubrique=16) team. 
