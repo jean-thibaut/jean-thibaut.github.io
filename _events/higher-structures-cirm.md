@@ -8,5 +8,5 @@ date: 17-21 April 2023
 location: "Marseille, France"
 ---
 
-[More information here](https://conferences.cirm-math.fr/2697.htmlqg)
+[More information here](https://conferences.cirm-math.fr/2697.html)
 
