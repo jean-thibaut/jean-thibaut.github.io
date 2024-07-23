@@ -8,5 +8,5 @@ date: 8-12 April 2024
 location: "Paris, France"
 ---
 
-[More information here](https://indico.math.cnrs.fr/event/7885/)
+[More information here](https://indico.math.cnrs.fr/event/9487/)
 
