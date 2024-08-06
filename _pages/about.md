@@ -15,7 +15,7 @@ I am a PhD student at the [Center for Theoretical Physics](https://www.cpt.univ-
 My current focus lies on Gauge theories with underlying Cartan geometry and their applications to describe gravity. Examples of theories based on Cartan geometry include Einstein-Cartan gravity and Macdowell-Mansouri gravity.
 
 My work revolves around two non orthogonal axes, the first being the formulation of topological gauge theories of gravity using the notion of characteristic classes while the second involves generalisations of Cartan connections using a formalism based on Lie algebroids.
-One can generalize a connection on a Lie algebroid to obtain a generalised connection by relaxing the condition for it to define a splitting of the short exact sequence associated to the Atiyah Lie algebroid. Such generalized connections feature an additional term compared to an ordinary connection which in turn results in different curvature, characteristic classes and action.
+One can generalize a connection on a Lie algebroid to obtain a generalised connection by relaxing the condition for it to define a splitting of the short exact sequence associated to the Atiyah Lie algebroid. Such generalized connections feature an additional term of algebraic origin compared to an ordinary connection which in turn results in different curvature, characteristic classes and action.
 <!-- The use of Lie algebroids allows to exploit all these additional terms in the action and not only a select few. -->
 
 I am also interested in other areas of mathematics and physics such as category theory, differential geometry, non-commutative geometry and quantum field theory.
