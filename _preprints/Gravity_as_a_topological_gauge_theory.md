@@ -8,7 +8,7 @@ excerpt: 'We describe a deformed topological gauge theory of gravity. The two ex
 # The other example being conformal Cartan geometry.
 
 date: 2024-03-13
-authors: 'Serge Lazzarini, Jean Thibaut'
+authors: 'Jean Thibaut, Serge Lazzarini'
 venue: 'ArXiv preprint'
 paperurl: 'https://arxiv.org/abs/2403.05284'
 #citation: 'Serge Lazzarini, Jean Thibaut. (2024). &quot;Gravity as a topological gauge theory.&quot; <i>Preprint </i>. 1(1).'
@@ -21,7 +21,11 @@ For a Lorentzian geometry if one one only considers the Euler number we retrieve
 
 The case of a Conformal geometry encapsulates the Lorentzian one since by specifying conditions on the Cartan connection we can retrieve the action obtained from Lorentzian geometry. -->
 
-We describe gauge theories which allow to retrieve a large class of gravitational
+We describe gauge theories which allow to retrieve a large class of gravitational theories, including, MacDowell-Mansouri gravity and its topological extension to Loop Quantum Gravity via the Pontrjagin characteristic class involving the Nieh-Yan term. Considering symmetric spaces parametrized by mutations allows to naturally obtain a bare cosmological constant which in particular cases gives rise to a positive effective cosmological constant while having an AdS spacetime.
+Two examples are studied, Lorentzian geometry (including dS and AdS spacetimes) and Lorentz×Weyl geometry. In the latter case we prove the equations of motion exhibit a secondary source for curvature in addition to the usual energy-momentum tensor. This additional source is expressed in terms of the spin density of matter, torsion and their variations.
+Finally, we show that the gauge + matter actions constructed from invariant polynomials are asymptotically topological if one assumes a vanishing bare cosmological constant together with gauge and matter fields having compact support.
+
+<!-- We describe gauge theories which allow to retrieve a large class of gravitational
 theories, including, MacDowell-Mansouri gravity and its topological extension to
 Loop Quantum Gravity via the Pontrjagin characteristic class involving the Nieh-
 Yan term. Considering symmetric spaces parametrized by mutations allows to nat-
@@ -34,7 +38,7 @@ momentum tensor. This additional source is expressed in terms of the spin densit
 of matter, torsion and their variations.
 Finally, we show that the gauge + matter actions constructed from invariant
 polynomials are asymptotically topological if one assumes a vanishing bare cosmo-
-logical constant together with gauge and matter fields having compact support.
+logical constant together with gauge and matter fields having compact support. -->
 
  [Download paper here](https://arxiv.org/pdf/2403.05284.pdf)
 
