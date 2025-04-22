@@ -11,7 +11,7 @@ date: 2024-03-13
 authors: 'Jean Thibaut, Serge Lazzarini'
 venue: 'ArXiv preprint'
 paperurl: 'https://arxiv.org/abs/2403.05284'
-citation: 'Jean Thibaut, Serge Lazzarini. (2024). &quot;Gravity as a topological gauge theory.&quot; <i>Preprint </i>. 1(1).'
+#citation: 'Jean Thibaut, Serge Lazzarini. (2024). &quot;Gravity as a topological gauge theory.&quot; <i>Preprint </i>. 1(1).'
 ---
 <!-- We describe a topological theory of gravity by building an action from the Characteristic numbers of a manifold with Cartan geometry. 
 
