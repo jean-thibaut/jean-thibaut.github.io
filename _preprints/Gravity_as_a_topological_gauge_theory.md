@@ -2,7 +2,7 @@
 title: "Gravity as a deformed topological gauge theory"
 collection: preprints
 permalink: /preprints/Gravity_as_a_topological_gauge_theory
-excerpt: 'We describe a deformed topological gauge theory of gravity. The two examples studied are Lorentzian (including dS and AdS) and conformal geometry. We finally show the total gauge + matter action is perturbatively topological in the bare cosmological constant.'
+excerpt: 'We describe a deformed topological gauge theory of gravity. The two examples studied are Lorentzian (including dS and AdS) and conformal geometry and show the total gauge + matter action is perturbatively topological in the bare cosmological constant.'
 
 # a topological theory of gravity with action consisting of a linear combination of the Euler and Pontrjagin numbers of the Manifold. Two examples are studied, the first being a Lorentzian Cartan geometry (dS and AdS spacetimes are particular cases).
 # The other example being conformal Cartan geometry.
