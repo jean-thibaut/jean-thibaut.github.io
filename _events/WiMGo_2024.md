@@ -5,6 +5,8 @@ type: "Conference"
 permalink: /events/WiMGo_2024
 venue: "Göttingen, Germany"
 date: 02-05 August 2024
+start_date: 2024-08-2
+end_date: 2024-08-5
 location: "Göttingen, Germany"
 ---
 

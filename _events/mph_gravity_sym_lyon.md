@@ -4,7 +4,8 @@ collection: events
 type: "Conference"
 permalink: /events/mph_gravity_sym_lyon
 venue: "ENS Lyon, France"
-date: 23-26 June 2025
+start_date: 2025-06-23
+end_date: 2025-06-26
 location: "Lyon, France"
 ---
 
