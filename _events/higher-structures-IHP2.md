@@ -4,8 +4,7 @@ collection: events
 type: "Conference"
 permalink: /events/higher-structures-IHP2
 venue: "IHP, Paris, France"
-start_date: 2023-06-12
-end_date: 2023-06-16
+date: 12-16 June 2023
 location: "Paris, France"
 ---
 

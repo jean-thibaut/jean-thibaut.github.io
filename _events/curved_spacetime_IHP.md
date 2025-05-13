@@ -4,8 +4,7 @@ collection: events
 type: "Conference"
 permalink: /events/curved_spacetime_IHP
 venue: "IHP, Paris, France"
-start_date: 2024-04-08
-end_date: 2024-04-12
+date: 8-12 April 2024
 location: "Paris, France"
 ---
 

@@ -4,8 +4,7 @@ collection: events
 type: "Conference"
 permalink: /events/NCG-gauge-theories-CIRM
 venue: "CIRM, Marseille, France"
-start_date: 2025-04-7
-end_date: 2025-04-11
+date: 07-11 April 2025
 location: "Marseille, France"
 ---
 

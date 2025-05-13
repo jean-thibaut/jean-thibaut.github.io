@@ -4,8 +4,7 @@ collection: events
 type: "Conference"
 permalink: /events/higher-structures-cirm
 venue: "CIRM, Marseille, France"
-start_date: 2023-04-17
-end_date: 2023-04-21
+date: 17-21 April 2023
 location: "Marseille, France"
 ---
 

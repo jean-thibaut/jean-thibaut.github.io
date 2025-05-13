@@ -4,8 +4,7 @@ collection: events
 type: "Conference"
 permalink: /events/bridge_qg_paris
 venue: "LPNHE, Paris, France"
-start_date: 2025-07-07
-end_date: 2025-07-10
+date: 07-10 July 2025
 location: "Paris, France"
 ---
 
