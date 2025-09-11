@@ -4,7 +4,7 @@ collection: talks
 type: "Seminar"
 permalink: /talks/Wurzburg_2025
 venue: "Geometry team seminar"
-date: 2025-10-3
+date: 2025-10-03
 location: "Würzburg, Germany"
 ---
 
