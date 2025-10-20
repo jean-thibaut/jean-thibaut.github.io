@@ -1,11 +1,11 @@
-<!-- ---
+---
 title: "Generalized gauge theories on Lie algebroids"
 collection: talks
 type: "Seminar"
-permalink: /talks/Wurzburg_2025
-venue: "Geometry team seminar"
-date: 2025-10-23
-location: "Würzburg, Germany"
---- -->
+permalink: /talks/Potsdam_2025
+venue: "Institut für Mathematik"
+date: 2025-10-22
+location: "Potsdam, Germany"
+---
 
 <!-- [More information here](https://icmp2024.org/index.html) -->
