@@ -8,7 +8,7 @@ redirect_from:
   - /research.html
 ---
 
-I am a PhD student at the [Center for Theoretical Physics](https://www.cpt.univ-mrs.fr) (CPT) located in Marseille (France) and am part of the [Geometry, Physics and Symmetries](https://www.cpt.univ-mrs.fr/spip.php?page=rubrique&id_rubrique=16) team. I am also a member of the [CaLISTA](https://www.cost.eu/actions/CA21109/), [BridgeQG](https://www.cost.eu/actions/CA23130/) and [CosmoVerse](https://www.cost.eu/actions/CA21136/) COST actions.
+I am an in an independent researcher and am currently looking for a post doctoral position. I defended my PhD at the [Center for Theoretical Physics](https://www.cpt.univ-mrs.fr) (CPT) located in Marseille (France) and was part of the [Geometry, Physics and Symmetries](https://www.cpt.univ-mrs.fr/spip.php?page=rubrique&id_rubrique=16) team. I am also a member of the [CaLISTA](https://www.cost.eu/actions/CA21109/), [BridgeQG](https://www.cost.eu/actions/CA23130/) and [CosmoVerse](https://www.cost.eu/actions/CA21136/) COST actions.
 
 <h2>Research interests</h2>
 
