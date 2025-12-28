@@ -9,7 +9,10 @@ excerpt: 'We describe a deformed topological gauge theory of gravity. The two ex
 
 date: 2024-03-13
 authors: 'Jean Thibaut, Serge Lazzarini'
-venue: ['Accepted in PRD'](https://journals.aps.org/prd/accepted/10.1103/83y2-g7jt)
+venue: 'Accepted in PRD'
+
+<!--['Accepted in PRD'](https://journals.aps.org/prd/accepted/10.1103/83y2-g7jt)-->
+
 paperurl: 'https://arxiv.org/abs/2403.05284'
 #citation: 'Jean Thibaut, Serge Lazzarini. (2024). &quot;Gravity as a topological gauge theory.&quot; <i>Preprint </i>. 1(1).'
 ---
