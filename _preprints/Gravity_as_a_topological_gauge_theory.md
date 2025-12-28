@@ -40,6 +40,6 @@ Finally, we show that the gauge + matter actions constructed from invariant
 polynomials are asymptotically topological if one assumes a vanishing bare cosmo-
 logical constant together with gauge and matter fields having compact support. -->
 
- [Download paper here](https://arxiv.org/pdf/2403.05284.pdf) [PRD link](https://journals.aps.org/prd/accepted/10.1103/83y2-g7jt)
+ [Download paper here](https://arxiv.org/pdf/2403.05284.pdf), [PRD link](https://journals.aps.org/prd/accepted/10.1103/83y2-g7jt)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
