@@ -10,9 +10,6 @@ excerpt: 'We describe a deformed topological gauge theory of gravity. The two ex
 date: 2024-03-13
 authors: 'Jean Thibaut, Serge Lazzarini'
 venue: 'Accepted in PRD'
-
-<!--['Accepted in PRD'](https://journals.aps.org/prd/accepted/10.1103/83y2-g7jt)-->
-
 paperurl: 'https://arxiv.org/abs/2403.05284'
 #citation: 'Jean Thibaut, Serge Lazzarini. (2024). &quot;Gravity as a topological gauge theory.&quot; <i>Preprint </i>. 1(1).'
 ---
@@ -43,6 +40,6 @@ Finally, we show that the gauge + matter actions constructed from invariant
 polynomials are asymptotically topological if one assumes a vanishing bare cosmo-
 logical constant together with gauge and matter fields having compact support. -->
 
- [Download paper here](https://arxiv.org/pdf/2403.05284.pdf)
+ [Download paper here](https://arxiv.org/pdf/2403.05284.pdf) ['PRD link'](https://journals.aps.org/prd/accepted/10.1103/83y2-g7jt)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
