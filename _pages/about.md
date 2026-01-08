@@ -12,7 +12,7 @@ I am an independent researcher and am currently looking for a post doctoral posi
 
 <h2>Research interests</h2>
 
-My current focus lies on Gauge theories with underlying Cartan geometry and their applications to describe gravity. Examples of theories based on Cartan geometry include Einstein-Cartan gravity and Macdowell-Mansouri gravity. As part of this I also happen to be interested in BRST-BV-BFV quantization.
+My current focus lies on Gauge theories with underlying Cartan geometry and their applications to describe gravity. Examples of theories based on Cartan geometry include Einstein-Cartan gravity and Macdowell-Mansouri gravity. As part of this I also happen to be interested in BRST-BV-BFV quantization and higher gauge theories described by Lie n groupoids and algebroids.
 
 My work mainly revolves around two axes, the first being the formulation of topological gauge theories of gravity using the notion of characteristic classes while the second involves generalisations of Cartan connections using a formalism based on Lie algebroids.
 
