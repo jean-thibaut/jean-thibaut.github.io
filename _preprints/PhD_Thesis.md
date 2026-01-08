@@ -1,5 +1,5 @@
 ---
-title: "Gravity as a deformed topological gauge theory"
+title: "Cartan geometry, characteristic classes, Lie algebroids: Applications to gravity and the BRST formalism"
 collection: preprints
 permalink: /preprints/PhD_Thesis
 excerpt: 'The first part of the thesis studies the formulation of gravitational gauge theories with local geometry described by Lie algebras with structure fields instead of structure constants and highlights applications to alleviate some of the tensions in cosmology and curvature singularity problems in gravitational theories. The second part of the thesis develops a unified framework based on broken splittings of Atiyah short exact sequences of Lie algebroids to describe both ordinary gauge theories with a Higgs sector and the BRST formalism. We finally adapt the results of the first part of the thesis to generalized gauge theories on Lie algebroids, thus providing a unified structure to describe these different applica- tions.'
