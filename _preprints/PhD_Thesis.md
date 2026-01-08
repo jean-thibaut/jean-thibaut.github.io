@@ -21,7 +21,9 @@ For a Lorentzian geometry if one one only considers the Euler number we retrieve
 
 The case of a Conformal geometry encapsulates the Lorentzian one since by specifying conditions on the Cartan connection we can retrieve the action obtained from Lorentzian geometry. -->
 
-The first part of the thesis studies the formulation of gravitational gauge theories with local geometry described by Lie algebras with structure fields instead of structure constants and highlights applications to alleviate some of the tensions in cosmology and curvature singularity problems in gravitational theories. The second part of the thesis develops a unified framework based on broken splittings of Atiyah short exact sequences of Lie algebroids to describe both ordinary gauge theories with a Higgs sector and the BRST formalism. We finally adapt the results of the first part of the thesis to generalized gauge theories on Lie algebroids, thus providing a unified structure to describe these different applica- tions.
+The first part of the thesis studies the formulation of gravitational gauge theories with local geometry described by Lie algebras with structure fields instead of structure constants and highlights applications to alleviate some of the tensions in cosmology and curvature singularity problems in gravitational theories.
+
+The second part of the thesis develops a unified framework based on broken splittings of Atiyah short exact sequences of Lie algebroids to describe both ordinary gauge theories with a Higgs sector and the BRST formalism. We finally adapt the results of the first part of the thesis to generalized gauge theories on Lie algebroids, thus providing a unified structure to describe these different applica- tions.
 
 <!-- We describe gauge theories which allow to retrieve a large class of gravitational
 theories, including, MacDowell-Mansouri gravity and its topological extension to
